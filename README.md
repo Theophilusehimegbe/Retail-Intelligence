@@ -1,47 +1,49 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F3864,100:2E75B6&height=200&section=header&text=Retail%20Intelligence&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Customer%20Analytics%20%7C%20Power%20BI&descSize=22&descAlignY=55&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3d4f2e,50:6b7c45,100:8a9e5a&height=220&section=header&text=Retail%20Intelligence&fontSize=62&fontColor=f5f0e8&fontAlignY=38&desc=Customer%20Analytics%20%7C%20Power%20BI&descSize=22&descAlignY=58&descColor=d4cbb8&animation=fadeIn" width="100%"/>
 
 <br/>
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Data Analytics](https://img.shields.io/badge/Analytics-Customer%20Intelligence-2E75B6?style=for-the-badge)
-![Records](https://img.shields.io/badge/Records-392%2C431-1F3864?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Completed-2ea44f?style=for-the-badge)
+![Records](https://img.shields.io/badge/Records-392%2C431-3d4f2e?style=for-the-badge)
+![Dashboards](https://img.shields.io/badge/Dashboards-3-6b7c45?style=for-the-badge)
+
 
 <br/>
 
-### A Power BI analytics project exploring customer behaviour, loyalty and churn across 392,431 retail transactions through three interconnected dashboards: Store Performance, RFM Segmentation and Churn Analysis.
+*A Power BI analytics project exploring customer behaviour, loyalty and churn across 392,431 retail transactions through three interconnected dashboards: Store Performance, RFM Segmentation and Churn Analysis.*
 
 <br/>
 
-[![View Dashboard](https://img.shields.io/badge/🔗%20View%20Interactive%20Dashboard-2E75B6?style=for-the-badge)](https://app.powerbi.com/view?r=eyJrIjoiZTE2NWI0MDMtNzE1ZS00NTY0LWIyNzMtZmM4MDFhYzIwNDM4IiwidCI6IjE5NDVhZTU1LTc4YTAtNDUyMC05MjY0LTAwZDJkNjBhYTQyOCJ9)
-[![Read on Medium](https://img.shields.io/badge/📖%20Full%20Write--up%20on%20Medium-000000?style=for-the-badge&logo=medium)](https://medium.com/@Theoofold/store-performace-report-d9e51428b69c)
+[![View Dashboard](https://img.shields.io/badge/View%20Interactive%20Dashboard-3d4f2e?style=for-the-badge)](https://app.powerbi.com/view?r=eyJrIjoiZTE2NWI0MDMtNzE1ZS00NTY0LWIyNzMtZmM4MDFhYzIwNDM4IiwidCI6IjE5NDVhZTU1LTc4YTAtNDUyMC05MjY0LTAwZDJkNjBhYTQyOCJ9)
+
+
+<br/>
 
 </div>
 
 ---
 
-## 📌 Table of Contents
+## Table of Contents
 
-- [Project Background](#-project-background)
-- [Data Structure and Initial Checks](#-data-structure-and-initial-checks)
-- [Repository Structure](#-repository-structure)
-- [Executive Summary](#-executive-summary)
-- [Dashboard 1: Revenue and Sales Analysis](#-dashboard-1-revenue-and-sales-analysis)
+- [Project Background](#project-background)
+- [Data Structure and Initial Checks](#data-structure-and-initial-checks)
+- [Repository Structure](#repository-structure)
+- [Executive Summary](#executive-summary)
+- [Dashboard 1: Revenue and Sales Analysis](#dashboard-1-revenue-and-sales-analysis)
   - [Monthly Performance Breakdown](#monthly-performance-breakdown)
   - [Takeaways](#takeaways)
   - [Recommendations](#recommendations)
-- [Dashboard 2: Customer Segmentation (RFM Analysis)](#-dashboard-2-customer-segmentation-rfm-analysis)
+- [Dashboard 2: Customer Segmentation (RFM Analysis)](#dashboard-2-customer-segmentation-rfm-analysis)
   - [Recommendations](#recommendations-1)
-- [Dashboard 3: Churn Analysis](#-dashboard-3-churn-analysis)
+- [Dashboard 3: Churn Analysis](#dashboard-3-churn-analysis)
   - [Recommendations](#recommendations-2)
-- [Project Closing Remark](#-project-closing-remark)
-- [Links](#-links)
+- [Project Closing Remark](#project-closing-remark)
+- [Links](#links)
 
 ---
 
-## 🧭 Project Background
+## Project Background
 
 In today's highly competitive retail landscape, growth is no longer driven solely by acquiring new customers. Instead, long-term success depends on a company's ability to understand customer behaviours, strengthen loyalty and prevent churn. This project was initiated to provide a comprehensive performance assessment of the retail store using advanced customer analytics.
 
@@ -57,7 +59,7 @@ By connecting these pillars, the project identifies what drives growth, where va
 
 ---
 
-## 🗃️ Data Structure and Initial Checks
+## Data Structure and Initial Checks
 
 The dataset was obtained from the store's transactional and customer management system. It contains a total of **392,431 records**, capturing both sales performance and customer behaviour across different regions and time periods.
 
@@ -83,7 +85,7 @@ After these initial checks, the cleaned dataset was loaded into Power BI where t
 
 ---
 
-## 🗂️ Repository Structure
+## Repository Structure
 
 ```
 retail-intelligence/
@@ -99,7 +101,7 @@ retail-intelligence/
 
 ---
 
-## 📋 Executive Summary
+## Executive Summary
 
 > *The story of this business is one of impressive short-term success coupled with looming long-term risk.*
 
@@ -111,14 +113,14 @@ Over the last year, the store achieved record-breaking revenue of **£8.88M**, a
 
 | Metric | Value |
 |:---:|:---:|
-| 💰 Total Revenue | £8.88M |
-| 📈 YoY Growth | +1,457% |
-| 👥 Active Customers | 4,300+ |
-| 🛒 Total Sales | 19K |
-| 📦 Units Sold | 5M |
-| 💳 Avg Order Value | £479.55 |
-| ✅ Retention Rate | 59% |
-| ⚠️ Churn Rate | 41% |
+| Total Revenue | £8.88M |
+| YoY Growth | +1,457% |
+| Active Customers | 4,300+ |
+| Total Sales | 19K |
+| Units Sold | 5M |
+| Avg Order Value | £479.55 |
+| Retention Rate | 59% |
+| Churn Rate | 41% |
 
 </div>
 
@@ -138,7 +140,7 @@ The store has mastered acquisition and short-term sales spikes. But it is leakin
 
 ---
 
-## 📊 Dashboard 1: Revenue and Sales Analysis
+## Dashboard 1: Revenue and Sales Analysis
 
 ![Revenue and Sales Dashboard](assets/store_performance.png)
 
@@ -156,7 +158,7 @@ Sales began to climb, reflecting seasonal demand buildup. By mid-year, growth ac
 
 **September to December**
 
-The story of the year is written in Q4. Revenue surged sharply, peaking near December, with monthly revenue almost tripling compared to early months. This spike reflects holiday-driven demand. Customers spent more frequently, pushing average order size to 278.75 units per sale (+25.6% YoY). However, average order value grew only marginally, suggesting buyers are increasing volume, not price-point.
+The story of the year is written in Q4. Revenue surged sharply, peaking near December, with monthly revenue almost tripling compared to early months. Customers spent more frequently, pushing average order size to 278.75 units per sale (+25.6% YoY). However, average order value grew only marginally, suggesting buyers are increasing volume, not price-point.
 
 **Customer Concentration**
 
@@ -172,7 +174,7 @@ The store is scaling aggressively, but growth is concentrated in Q4, in a handfu
 
 ### Recommendations
 
-**📦 Product Diversification**
+**Product Diversification**
 
 Paper Craft Little Birdie (£184K) and Regency Candlestick 3 Tier (£124K) together make up a large slice of total revenue. If either line dips, overall sales could fall sharply.
 
@@ -181,7 +183,7 @@ Paper Craft Little Birdie (£184K) and Regency Candlestick 3 Tier (£124K) toget
 
 > **Expected Outcome:** Reduce revenue dependency on top 2 products from ~35% to below 25% of total store revenue
 
-**👥 Customer Base Expansion**
+**Customer Base Expansion**
 
 The top 3 customers (IDs 14911: £194K, 12471: £123K, 14606: £117K) together contributed nearly £435K, or ~5% of revenue.
 
@@ -190,7 +192,7 @@ The top 3 customers (IDs 14911: £194K, 12471: £123K, 14606: £117K) together c
 
 > **Expected Outcome:** Reduce top 3 customer revenue concentration from 5% to 3% while lifting mid-tier contributions by +10%
 
-**📅 Seasonal Preparedness**
+**Seasonal Preparedness**
 
 Q4 (October to December) accounts for the largest sales spikes, with December nearly tripling early-month performance.
 
@@ -199,7 +201,7 @@ Q4 (October to December) accounts for the largest sales spikes, with December ne
 
 > **Expected Outcome:** Reduce order backlog by 15% in December and lift total holiday revenue by +12%
 
-**🌍 Geographic Growth**
+**Geographic Growth**
 
 Asia and Africa together represent less than 10% of revenue despite growing signals.
 
@@ -210,11 +212,11 @@ Asia and Africa together represent less than 10% of revenue despite growing sign
 
 ---
 
-## 👥 Dashboard 2: Customer Segmentation (RFM Analysis)
+## Dashboard 2: Customer Segmentation (RFM Analysis)
 
 ![RFM Segmentation Dashboard](assets/rfm_segmentation.png)
 
-While revenue tells us what was earned, segmentation reveals where it came from. This analysis uses the **RFM (Recency, Frequency, Monetary)** model to segment customers into actionable categories.
+While revenue tells us what was earned, segmentation reveals where it came from. This analysis uses the **RFM (Recency, Frequency, Monetary)** model to segment customers into actionable categories, helping tailor strategies for growth, retention and reactivation.
 
 <br/>
 
@@ -222,39 +224,39 @@ While revenue tells us what was earned, segmentation reveals where it came from.
 
 | Segment | Revenue | Share | Retention |
 |:---:|:---:|:---:|:---:|
-| 🏆 Champions | £5.2M | ~59% | 96% |
-| ⭐ Loyal Customers | £1.6M | 18% | 72% |
-| 🆕 New Customers | £1.1M | 12% | 0% |
-| ⚠️ At-Risk Customers | £0.6M | 7% | — |
-| 🌱 Potential Loyalists | £0.3M | 4% | 92% |
+| Champions | £5.2M | ~59% | 96% |
+| Loyal Customers | £1.6M | 18% | 72% |
+| New Customers | £1.1M | 12% | 0% |
+| At-Risk Customers | £0.6M | 7% | — |
+| Potential Loyalists | £0.3M | 4% | 92% |
 
 </div>
 
 <br/>
 
-**🏆 Champions are the lifeblood of the business, but they carry too much weight**
+**Champions are the lifeblood of the business, but they carry too much weight**
 
 Champions alone drive £5.2M, nearly 60% of total revenue. A 10% decline in Champion spend equals a **£520K loss**. The business is heavily reliant on this narrow segment, making Champions both the biggest strength and the greatest vulnerability.
 
-**⭐ Loyal Customers are the rising stars, the next generation of Champions**
+**Loyal Customers are the rising stars, the next generation of Champions**
 
 Loyal Customers contributed £1.6M in revenue. With the right loyalty incentives, they can graduate into Champions. Moving just 25% of Loyal Customers up the ladder could unlock an extra **£400K in revenue**.
 
-**🆕 New Customers are plentiful but risk falling into churn**
+**New Customers are plentiful but risk falling into churn**
 
-At 34% of the customer base, New Customers generated £1.1M in revenue, proving acquisition campaigns are working. But first-time buyers are fragile. Without the right nudges, they often do not return. The story here is activation — transforming one-time shoppers into repeat buyers.
+At 34% of the customer base, New Customers generated £1.1M in revenue, proving acquisition campaigns are working. But first-time buyers are fragile. Without the right nudges, they often do not return. The story here is activation — transforming one-time shoppers into repeat buyers before they vanish into the At-Risk pool.
 
-**⚠️ At-Risk Customers represent silent leakage**
+**At-Risk Customers represent silent leakage**
 
 The £0.6M in at-risk revenue is a slow leak in a bucket. If ignored, that 7% could snowball into a much larger churn problem. Every lost At-Risk customer is a wasted acquisition and loyalty effort.
 
-**🌱 Potential Loyalists are small but big in promise**
+**Potential Loyalists are small but big in promise**
 
-Currently £0.3M of revenue comes from Potential Loyalists. They are like seedlings, not yet strong, but with nurturing they can grow into Loyal Customers and even Champions, helping balance the over-reliance on the current Champion base.
+Currently £0.3M of revenue comes from Potential Loyalists. With nurturing, they can grow into Loyal Customers and even Champions, helping balance the over-reliance on the current Champion base.
 
 ### Recommendations
 
-**🛡️ Protect the Champions**
+**Protect the Champions**
 
 - Launch exclusive benefits: VIP previews, priority service, free shipping thresholds
 - Build a feedback loop through quarterly surveys or early access groups
@@ -262,28 +264,28 @@ Currently £0.3M of revenue comes from Potential Loyalists. They are like seedli
 
 > Losing even 5% of Champions would hurt more than failing to acquire hundreds of new customers
 
-**🚀 Elevate Loyal Customers into Champions**
+**Elevate Loyal Customers into Champions**
 
 - Offer tiered loyalty perks: double points weekends and spend thresholds that unlock Champion-style benefits
 - Use personalised cross-sell campaigns to encourage higher average order values
 
 > **Expected Outcome:** If 1 in 4 Loyal Customers becomes a Champion, this unlocks **£400K in incremental revenue**
 
-**🎯 Activate New Customers before they slip away**
+**Activate New Customers before they slip away**
 
 - Design a welcome journey: discounts on the second purchase and curated starter bundles based on first purchase
 - Use trigger-based reminders: if a New Customer has not returned within 30 days, send a tailored offer
 
 > **Expected Outcome:** Increase repeat purchase rate among New Customers by 15%, translating into **£165K more annual revenue**
 
-**🔄 Rescue At-Risk Customers**
+**Rescue At-Risk Customers**
 
 - Deploy win-back campaigns: time-sensitive discounts, "we miss you" emails, or surprise offers
 - Offer a last-chance incentive: loyalty points expiry reminders or reactivation coupons
 
 > **Expected Outcome:** Even recovering 30% of the £0.6M saves **£180K without any new acquisition spend**
 
-**🌱 Cultivate Potential Loyalists**
+**Cultivate Potential Loyalists**
 
 - Encourage repeat behaviour with "buy twice, get a perk" style campaigns
 - Track conversion into Loyal Customers with a target of 20% uplift in 12 months
@@ -292,7 +294,7 @@ Currently £0.3M of revenue comes from Potential Loyalists. They are like seedli
 
 ---
 
-## 📉 Dashboard 3: Churn Analysis
+## Dashboard 3: Churn Analysis
 
 ![Churn Analysis Dashboard](assets/churn_analysis.png)
 
@@ -304,15 +306,15 @@ This analysis explores customer churn dynamics, identifying how many customers w
 
 | Metric | Value |
 |:---:|:---:|
-| 👥 Total Customers | 4,334 |
-| ✅ Retained | 2,554 (59%) |
-| ❌ Churned | 1,780 (41%) |
-| 📈 YoY Retention Growth | +338% |
-| ⚠️ YoY Churn Change | +10.5% worse |
-| 🏆 Champion Retention | 96% |
-| 🌱 Potential Loyalist Retention | 92% |
-| ⭐ Loyal Customer Retention | 72% |
-| 🆕 New Customer Retention | 0% |
+| Total Customers | 4,334 |
+| Retained | 2,554 (59%) |
+| Churned | 1,780 (41%) |
+| YoY Retention Growth | +338% |
+| YoY Churn Change | +10.5% worse |
+| Champion Retention | 96% |
+| Potential Loyalist Retention | 92% |
+| Loyal Customer Retention | 72% |
+| New Customer Retention | 0% |
 
 </div>
 
@@ -324,15 +326,15 @@ This analysis explores customer churn dynamics, identifying how many customers w
 
 **Customer Segment Loyalty Divide**
 
-Champions (96% retention) and Potential Loyalists (92% retention) are the backbone of the business. Loyal Customers (72% retention) are showing cracks — nearly 3 out of 10 are slipping away. The real red flag is New Customers: **almost all of them churn after their first purchase (0% retention)**. This tells the story of a broken onboarding journey.
+Champions (96% retention) and Potential Loyalists (92% retention) are the backbone of the business. Loyal Customers (72% retention) are showing cracks — nearly 3 out of 10 are slipping away. The real red flag is New Customers: **almost all of them churn after their first purchase (0% retention)**.
 
 **Seasonal Churn Spikes**
 
-September and December stand out as danger months. In December, churn peaks at its highest. Ironically, this is also when customer numbers spike, but these new buyers (holiday shoppers) do not return in January. The store is excellent at attracting one-time seasonal buyers but struggles to convert them into loyal, repeat customers.
+September and December stand out as danger months. In December, churn peaks at its highest. Ironically, this is also when customer numbers spike, but these new buyers do not return in January. The store is excellent at attracting one-time seasonal buyers but struggles to convert them into loyal, repeat customers.
 
 **Product Segments Tell Two Stories**
 
-High-volume products drive strong retention (67%). Best sellers, surprisingly, have the worst outcome **(31% retention)**. Customers buy them once but rarely return, suggesting they are often impulse buys or seasonal/gift-driven products. Revenue drivers are not always loyalty drivers.
+High-volume products drive strong retention (67%). Best sellers have the worst outcome **(31% retention)**. Customers buy them once but rarely return, suggesting they are often impulse buys or seasonal/gift-driven products. Revenue drivers are not always loyalty drivers.
 
 **Regional Retention Imbalance**
 
@@ -340,7 +342,7 @@ The UK and Western Europe are solid performers. But in regions like Africa and A
 
 ### Recommendations
 
-**🏠 Rebuild the Onboarding Journey**
+**Rebuild the Onboarding Journey**
 
 Right now, new customers are guaranteed to churn after their first order. This is the single biggest churn driver.
 
@@ -349,28 +351,28 @@ Right now, new customers are guaranteed to churn after their first order. This i
 
 > Even if only 20% of new customers make a second purchase, it would significantly lift the retention curve and create a larger pipeline of future Champions
 
-**🎄 Turn Seasonal Shoppers into Year-Round Buyers**
+**Turn Seasonal Shoppers into Year-Round Buyers**
 
 - Launch a "From Holiday to Everyday" campaign in January, offering vouchers or personalised bundles
 - Create holiday bundles that tie into subscriptions so holiday buyers roll over into repeat customers
 
 > Converting just 10 to 15% of holiday-only buyers could generate hundreds of repeat customers in Q1
 
-**💎 Strengthen the Middle (Loyal Customers at Risk)**
+**Strengthen the Middle (Loyal Customers at Risk)**
 
 - Introduce a tiered loyalty programme with free shipping after 3 orders, early access to new products or exclusive discounts
 - Personalise offers based on past purchases to make customers feel seen and valued
 
 > Improving this group's retention by just 10% could double the pipeline of Champions
 
-**🔁 Redesign Product Retention Strategy**
+**Redesign Product Retention Strategy**
 
 - Pair best sellers with high-volume products in bundled offers, converting one-off gift buyers into everyday shoppers
 - Analyse which best sellers attract churn-heavy customers and retarget them with complementary products
 
 > If best seller retention rises from 31% to 45%, the store could stabilise revenue and reduce dependency on acquisition
 
-**🌍 Localise Retention in Emerging Regions**
+**Localise Retention in Emerging Regions**
 
 - Offer region-specific promotions such as festival discounts and local bundles
 - Optimise delivery and post-purchase support in Africa and Asia, as logistics challenges may drive churn
@@ -379,23 +381,23 @@ Right now, new customers are guaranteed to churn after their first order. This i
 
 ---
 
-## 💬 Project Closing Remark
+## Project Closing Remark
 
 > *This analysis reveals a business at a crossroads. The store has successfully built a core of fiercely loyal customers who love the brand, proving that the value proposition is strong. The challenge and opportunity lie in extending that successful experience to every new customer who walks through the door. By acting decisively on these recommendations, the business can plug the leaks in its customer base, transform one-time sales into lifelong relationships, and build a foundation for growth that is not just impressive, but enduring. The goal is clear: stop acquiring customers only to lose them and start building a business where every new customer becomes a future Champion.*
 
 ---
 
-## 🔗 Links
+## Links
 
 | Resource | Link |
 |---|---|
 | Interactive Power BI Dashboard | [View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTE2NWI0MDMtNzE1ZS00NTY0LWIyNzMtZmM4MDFhYzIwNDM4IiwidCI6IjE5NDVhZTU1LTc4YTAtNDUyMC05MjY0LTAwZDJkNjBhYTQyOCJ9) |
-| Full Project Write-up | [Read on Medium](https://medium.com/@Theoofold/store-performace-report-d9e51428b69c) |
+
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E75B6,100:1F3864&height=120&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8a9e5a,50:6b7c45,100:3d4f2e&height=140&section=footer&animation=fadeIn" width="100%"/>
 
 </div>

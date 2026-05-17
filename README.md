@@ -72,7 +72,7 @@ The dataset was obtained from the store's transactional and customer management 
 
 ### Data Model
 
-![Data Model](assets/data_model.png)
+![Data Model](data_model.png)
 
 Prior to analysis, a series of data quality checks were conducted using **Power Query Editor** to ensure completeness, accuracy and reliability of insights:
 
@@ -142,7 +142,7 @@ The store has mastered acquisition and short-term sales spikes. But it is leakin
 
 ## Dashboard 1: Revenue and Sales Analysis
 
-![Revenue and Sales Dashboard](assets/store_performance.png)
+![Revenue and Sales Dashboard](store_performance.png)
 
 The store delivered £8.88M in revenue from 19K sales and 5M units across 4K customers, a remarkable **+1,457% growth** vs. last year. Customer acquisition surged, but the average order value rose only slightly (£479.55, +1.7% QoQ), showing that while volume is booming, spend per customer is not keeping pace.
 
@@ -214,7 +214,7 @@ Asia and Africa together represent less than 10% of revenue despite growing sign
 
 ## Dashboard 2: Customer Segmentation (RFM Analysis)
 
-![RFM Segmentation Dashboard](assets/rfm_segmentation.png)
+![RFM Segmentation Dashboard](rfm_segmentation.png)
 
 While revenue tells us what was earned, segmentation reveals where it came from. This analysis uses the **RFM (Recency, Frequency, Monetary)** model to segment customers into actionable categories, helping tailor strategies for growth, retention and reactivation.
 
@@ -296,7 +296,7 @@ Currently £0.3M of revenue comes from Potential Loyalists. With nurturing, they
 
 ## Dashboard 3: Churn Analysis
 
-![Churn Analysis Dashboard](assets/churn_analysis.png)
+![Churn Analysis Dashboard](churn_analysis.png)
 
 This analysis explores customer churn dynamics, identifying how many customers were retained versus lost, which groups are most at risk and what patterns drive churn across time, product categories and regions.
 
